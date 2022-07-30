@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MateriSQLite</string>
+    <string name="add_data">add data</string>
+    <string name="insert">Insert</string>
+    <string name="view">view</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="nim">NIM</string>
+    <string name="textview1">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="textview3">TextView</string>
+    <string name="textview4">TextView</string>
+</resources>
